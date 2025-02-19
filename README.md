@@ -1,4 +1,4 @@
-# Excel-project-1---Sales-Analysis
+# Excel-project-1 - Sales Analysis
 ## It's a sales analysis trend based on metrics like Income, Commute Distance and Demographics.
 ### Data Visualization & Dashboard Design – Created an interactive Bike Sales Dashboard using Excel, effectively visualizing key sales metrics such as income, commute distance, and customer demographics.
 ### Business Insights & Decision Support – Analyzed trends in customer purchase behavior, identifying income, commute distance, and age as key factors influencing bike purchases.
